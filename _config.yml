@@ -101,14 +101,7 @@ conference:
     - family: van de Meent
       given: Jan-Willem
       url: https://jwvdm.github.io
-      institute: University of Amsterdam and Northeastern University
-  # If there's a local chair, or a general chair, you can add them here.
-  - type: Local Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
+      institute: University of Amsterdam
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
@@ -120,31 +113,3 @@ conference:
       given: Christian
       url: https://naesseth.github.io/
       institute: University of Amsterdam
-  # Your Publication Chair handles processing of proceedings.      
-  - type: Publication Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Publicity Chairs often handle websites, social media etc.      
-  - type: Publicity Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # D&I Chairs look after initiatives to ensure an inclusive conference      
-  - type: D&I Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Sponsorship chairs handle bringing in money from sponsors.      
-  - type: Sponsorship Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute: 
