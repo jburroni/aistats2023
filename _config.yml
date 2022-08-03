@@ -2,7 +2,7 @@
 title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS 20XX conference.
-baseurl: "/aistats20XX" # the subpath of your site, e.g. /blog/
+baseurl: "/aistats2023" # the subpath of your site, e.g. /blog/
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -29,7 +29,7 @@ style: aistats
 
 ghub:
   edit: true
-  repository: aistats20XX
+  repository: aistats2023
 
 
 # Place a banner image in assets/images and give its name here.
@@ -52,60 +52,60 @@ conference:
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
-  venue:
+  venue: Hybrid In-person and Virtual
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: 
-  year: 20XX
+  location: United States of America (location TBD)
+  year: 2023
   # Give the instance of the conference here (e.g. 24th)
   instance:
   # Styling for AISTATS is "International Conference"  
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 20XX
-  -
+  - Spring 2023
+  - 
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: 
+    show: true
     # The URL of the submission site.
-    url: 
+    url: https://cmt3.research.microsoft.com/AISTATS2023
     # The name of the submission site (e.g. Microsoft CMT Website)
-    name: 
+    name: Microsoft CMT
   deadlines:
     # Fill in the key dates as below.
     - name: Submission server open
       type: submission
-      date: 
+      date: 15 September 2022
     - name: Paper submission deadline
       type: submission
-      time: 
+      time: 13 October 2022
     - name: Author response period starts
-      date: 
+      date: 28 November 2022
     - name: Author response period ends
-      time:
+      time: 9 December 2022
     - name: Paper decision notifications
-      date: 
+      date: 19 January 2023
       type: decision
     - name: Deadline for camera-ready papers
-      time: 
+      time: 23 February 2023
     - name: Registration deadline
-      date:
+      date: 
   # List program chairs here.      
   chairs:
   - type: Program Chairs
     people:
-    - family: 
-      given:
+    - family: Dy
+      given: Jennifer
       # Give their personal web page.  
-      url: 
-      institute: 
-    - family: 
-      given: 
-      url: 
-      institute:
+      url: https://ece.northeastern.edu/fac-ece/jdy/
+      institute: Northeastern University
+    - family: van de Meent
+      given: Jan-Willem
+      url: https://jwvdm.github.io
+      institute: University of Amsterdam and Northeastern University
   # If there's a local chair, or a general chair, you can add them here.
   - type: Local Chair
     people:
@@ -116,10 +116,14 @@ conference:
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
-    - family: 
-      given: 
-      url: 
-      institute:
+    - family: Hill
+      given: Davin
+      url: https://www.davinhill.me/
+      institute: Northeasten University
+    - family: Naesseth
+      given: Christian
+      url: https://naesseth.github.io/
+      institute: University of Amsterdam
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
