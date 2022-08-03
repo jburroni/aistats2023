@@ -89,10 +89,6 @@ conference:
     - name: Paper decision notifications
       date: 19 January 2023
       type: decision
-    - name: Deadline for camera-ready papers
-      time: 23 February 2023
-    - name: Registration deadline
-      date: 
   # List program chairs here.      
   chairs:
   - type: Program Chairs
