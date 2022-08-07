@@ -76,16 +76,11 @@ conference:
     name: Microsoft CMT
   deadlines:
     # Fill in the key dates as below.
-    - name: Submission server open
-      type: submission
-      date: 15 September 2022
     - name: Paper submission deadline
       type: submission
       time: 13 October 2022
-    - name: Author response period starts
-      date: 28 November 2022
-    - name: Author response period ends
-      time: 9 December 2022
+    - name: Reviews released to authors
+      date: 21 November 2022
     - name: Paper decision notifications
       date: 19 January 2023
       type: decision
