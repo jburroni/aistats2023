@@ -33,7 +33,7 @@ ghub:
 
 
 # Place a banner image in assets/images and give its name here.
-banner: resort.png 
+banner: white.png 
 
 conference:
   full_name: Artificial Intelligence and Statistics
