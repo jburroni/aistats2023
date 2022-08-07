@@ -5,25 +5,19 @@ weight: 2
 hide: true
 ---
 
-## Camera Ready 
-
-Please check the [Camera Ready instructions]({{ "submit.html" | relative_url }}) 
-for details on the camera-ready paper preparation and to download the updated 
-LaTeX style file.
-
 ## Call for Papers
 
-We invite submissions to the 25th International Conference on Artificial
+We invite submissions to the 26th International Conference on Artificial
 Intelligence and Statistics (AISTATS), and welcome paper submissions on
 artificial intelligence, machine learning, statistics, and related areas.
 
-The AISTATS 2022 organization team is committed to diversity in all its forms,
+The AISTATS 2023 organization team is committed to diversity in all its forms,
 and encourages submissions from authors of underrepresented groups and
 geographies in ML/AI.
 
 ### Key dates
 
-The dates are as follow:
+The dates are as follows:
 
 {% include listdates.html %}
 
@@ -61,21 +55,16 @@ statistics,  information theory, ...)
 * Ethical and trustworthy machine learning (causality, fairness,
   interpretability, privacy, robustness, safety, ...)
 * Applications of machine learning and statistics (including natural language,
-  signal processing, computer vision, social sciences, sustainability and
-climate, healthcare, economics, ...)
+  signal processing, computer vision, physical sciences, social sciences, sustainability and
+climate, healthcare, ...)
 
-## Physical Attendance
+## Conference Location and Format
 
-The AISTATS 2022 organizing committee is committed to the safety and health of
-our community. We are currently reviewing the best option for AISTATS 2022
-(either physical or virtual conference). In any case, **physical attendance will
-not be mandatory for authors of accepted papers.** As soon as we have made a
-final decision, we will update the information to the webpage. Thank you for
+The AISTATS 2023 organizing committee is committed to the safety and health of
+our community. We are currently reviewing the best option for AISTATS 2023
+(either physical, virtual conference, or hybrid). In the event of a physical or hybrid conference, in-person activities will be located in the United States. As soon as we have made a final decision, we will update the information to the webpage. Thank you for
 your patience and understanding.
 
-AISTATS will try to provide registration-free funding to eligible students
-(first authors), specially to those from underrepresented groups or
-demographics.
 
 
 ## Formatting and Supplementary Material
@@ -91,19 +80,19 @@ file, please upload it as is; otherwise gather everything to the single zip
 file.
 
 Submissions will be through CMT
-(<https://cmt3.research.microsoft.com/AISTATS2022/>) and will be open
+(<https://cmt3.research.microsoft.com/AISTATS2023/>) and will be open
 approximately 4-6 weeks before the abstract submission deadline.
 
 Formatting information (including LaTeX style files) is available at
-[{{ "AISTATS2022CameraReadyPaperPack.zip" | absolute_url }}]({{ "AISTATS2022CameraReadyPaperPack.zip" | absolute_url }}). We do not support
+[{{ "AISTATS2023PaperPack.zip" | absolute_url }}]({{ "AISTATS2023PaperPack.zip" | absolute_url }}). We do not support
 submission in preparation systems other than LaTeX. Please do not modify the
 layout given by the style file. If you have questions about the style file or
-its usage, please contact the publications chair.
+its usage, please contact the publications chair or the program chairs.
 
 ## Reviewer Nomination
 
 For each submission, the authors will be requested to nominate at least one of
-the authors as a reviewer for AISTATS 2022. Nominated reviewers are expected to
+the authors as a reviewer for AISTATS 2023. Nominated reviewers are expected to
 have sufficient expertise in the relevant field. Kindly understand that by a
 recent increase of submissions, we need more reviewers than previous years.
 
@@ -133,8 +122,7 @@ in the proceedings of a conference, and should not be under consideration for
 publication at another conference at any point during the AISTATS review
 process. Submissions as extended abstracts (4 pages or less), to workshops or
 non-archival venues (without a proceedings), or to arXiv, will not be
-considered a concurrent submission. It is acceptable to have a substantially extended version of the submitted paper under consideration simultaneously for journal publication, so long as the journal version's planned publication date is in May 2022 or later and the journal submission does not interfere with AISTATS right to publish the paper. Authors are also allowed to give talks
-to restricted audiences on the work(s) submitted to AISTATS during the review.
+considered a concurrent submission. It is acceptable to have a substantially extended version of the submitted paper under consideration simultaneously for journal publication, so long as the journal version's planned publication date is in May 2023 or later and the journal submission does not interfere with AISTATS right to publish the paper. Authors are also allowed to give talks to restricted audiences on the work(s) submitted to AISTATS during the review.
 
 Reviewers will be instructed that tech reports (including reports on sites such
 as arXiv) and papers in workshops without archival proceedings do not count as
@@ -163,9 +151,5 @@ not know the author names at any stage of the process. Reviewer names are
 visible to the area chair and to the other reviewers of each paper (as well as
 to program chairs).
 
-_Isabel Valera and Francisco J. R. Ruiz_\
-AISTATS 2022 Program Chairs
-
-_Gustau Camps-Valls_\
-AISTATS 2022 General Chair
-
+_Jennifer Dy and Jan-Willem van de Meent_\
+AISTATS 2023 Program Chairs
