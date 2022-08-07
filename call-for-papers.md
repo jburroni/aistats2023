@@ -2,7 +2,7 @@
 title: Call for Papers
 layout: default
 weight: 2
-hide: true
+hide: false
 ---
 
 ## Call for Papers
