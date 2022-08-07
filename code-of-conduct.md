@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: page
 weight: 4
---- 
+---
 
 
 The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of the Artificial Intelligence and Statistics (AISTATS) activities; this requires a community and an environment that recognizes and respects the inherent worth of every person. The purpose of this Code of Conduct (CoC) is to outline expected standards of behaviour during AISTATS activities.
@@ -33,8 +33,7 @@ Inappropriate or unprofessional behavior that interferes with another participan
 
 If you have concerns related to your participation or interaction at an AISTATS
 activity, observe someone else's difficulties, or have any other concerns you
-wish to share, you can make a report via email [aistatshotline@gmail.com](mailto:aistatshotline@gmail.com)
-or by phone call at +1 858-208-3810 (toll-free throughout the US and Canada).
+wish to share, you can make a report via email [aistats2023conduct@gmail.com](mailto:aistats2023conduct@gmail.com). Alternative, we provide an online form, in which information may be entered anonymously if desired: [https://forms.gle/ApcuAxj4ZfiQpjA37](https://forms.gle/ApcuAxj4ZfiQpjA37).
 
 There is no deadline by which to make a report.
 
@@ -66,11 +65,11 @@ Reports of violations will be handled at the discretion of the AISTATS organisin
 
 ## Ongoing Review
 
-The AISTATS organising committee welcomes feedback from the community on this CoC policy and procedures; please contact us by email at [aistats2022+d&i@gmail.com](mailto:aistats2022+d&i@gmail.com).
+The AISTATS organising committee welcomes feedback from the community on this CoC policy and procedures; please contact us by email at [aistats2023+d&i@gmail.com](mailto:aistats2023+d&i@gmail.com).
 
 ## Acknowledgements
 
-This CoC policy is a modified version of the [WiML CoC](https://wimlworkshop.org/conduct/), which itself was written by adapting the wording and structure from other CoC policies 
-and procedures by [Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) (created by the Ada Initiative), 
+This CoC policy is a modified version of the [WiML CoC](https://wimlworkshop.org/conduct/), which itself was written by adapting the wording and structure from other CoC policies
+and procedures by [Geek Feminism Wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) (created by the Ada Initiative),
 [NeurIPS](https://nips.cc/public/CodeOfConduct), [ACM](https://www.acm.org/about-acm/policy-against-harassment), [Montreal AI Symposium](https://montrealaisymposium.wordpress.com/code-of-conduct/),
 and [Deep Learning Indaba](https://deeplearningindaba.com/mentorship/code-of-ethics-and-conduct/).
