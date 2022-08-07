@@ -3,6 +3,7 @@ title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS 20XX conference.
 baseurl: "/aistats2023" # the subpath of your site, e.g. /blog/
+timezone: EST
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -52,11 +53,11 @@ conference:
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
-  venue: Hybrid In-person and Virtual
+  venue: TBD, hybrid in-person and virtual.
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: United States of America (location TBD)
+  location: TBD, United States of America. 
   year: 2023
   # Give the instance of the conference here (e.g. 24th)
   instance:
@@ -77,8 +78,8 @@ conference:
   deadlines:
     # Fill in the key dates as below.
     - name: Paper submission deadline
+      time: 13 October 2022 5:59pm
       type: submission
-      time: 13 October 2022
     - name: Reviews released to authors
       date: 21 November 2022
     - name: Paper decision notifications
