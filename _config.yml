@@ -1,7 +1,7 @@
 # Site settings
 title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of the AISTATS 20XX conference.
+  This is the website of the AISTATS 2023 conference.
 baseurl: "/aistats2023" # the subpath of your site, e.g. /blog/
 timezone: EST
 
@@ -77,8 +77,11 @@ conference:
     name: Microsoft CMT
   deadlines:
     # Fill in the key dates as below.
+    - name: Abstract submission deadline
+      text: 6 October 2022 (Anywhere on Earth)
+      type: submission
     - name: Paper submission deadline
-      time: 13 October 2022 5:59pm
+      text: 13 October 2022 (Anywhere on Earth)
       type: submission
     - name: Reviews released to authors
       date: 21 November 2022
