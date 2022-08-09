@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>{{ site.conference.name }} {{ site.conference.year }} Organizing Committee</h1>
+
+<p>{%if site.author.email %}General inquiries should be sent to <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>{%endif%}
+
+{% include listallchairs.html program_committee=true %}
+
+{{ content }}
