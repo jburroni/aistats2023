@@ -90,6 +90,13 @@ conference:
       type: decision
   # List program chairs here.      
   chairs:
+  - type: General Chair
+    people:
+    - family: Ruiz
+      given: Francisco
+      # Give their personal web page.  
+      url: https://franrruiz.github.io/
+      institute: DeepMind
   - type: Program Chairs
     people:
     - family: Dy

@@ -153,3 +153,6 @@ to program chairs).
 
 _Jennifer Dy and Jan-Willem van de Meent_\
 AISTATS 2023 Program Chairs
+
+_Francisco Ruiz_\
+AISTATS 2023 General Chair
