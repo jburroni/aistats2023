@@ -17,12 +17,7 @@ geographies in ML/AI.
 
 ### Key dates
 
-The dates are as follows:
-
 {% include listdates.html %}
-
-The deadlines are firm. We realize the pandemic is making lives difficult, so
-we ask the authors to factor in any uncertainties when preparing their papers.
 
 ### Summary
 
