@@ -1,4 +1,4 @@
-﻿---
+---
 title: Call for Papers
 layout: default
 weight: 2
@@ -41,7 +41,7 @@ Submissions are limited to 8 pages excluding references using the LaTeX style fi
 
 Submissions will be through CMT (<https://cmt3.research.microsoft.com/AISTATS2023/>) and will be open approximately 4-6 weeks before the abstract submission deadline.
 
-Formatting information (including LaTeX style files) is available at [{{ "AISTATS2023PaperPack.zip" | absolute_url }}]({{ "AISTATS2023PaperPack.zip" | absolute_url }}). We do not support submission in preparation systems other than LaTeX. Please do not modify the layout given by the style file. If you have questions about the style file or its usage, please contact the publications chair or the program chairs.
+Formatting information (including LaTeX style files) is available in the [AISTATS2023PaperPack](https://aistats.org/aistats2023/AISTATS2023PaperPack.zip). We do not support submission in preparation systems other than LaTeX. Please do not modify the layout given by the style file. If you have questions about the style file or its usage, please contact the publications chair or the program chairs.
 
 
 ## Reviewer Nomination
