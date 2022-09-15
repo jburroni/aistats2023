@@ -57,7 +57,7 @@ conference:
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: TBD, United States of America. 
+  location: TBD.
   year: 2023
   # Give the instance of the conference here (e.g. 24th)
   instance:
