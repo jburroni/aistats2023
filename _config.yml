@@ -112,8 +112,14 @@ conference:
     people:
     - family: Mandt
       given: Stephan
-      url: http://www.stephanmandt.com/
+      url: https://cims.nyu.edu/~andrewgw/
       institute: UC Irvine
+  - type: Diversity and Inclusion Chair
+    people: 
+    - family: Williamson
+      given: Sinead
+      url:  sinead@austin.utexas.edu
+      institute: UT Austin
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
