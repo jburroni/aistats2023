@@ -12,7 +12,7 @@ The 26th International Conference on Artificial Intelligence and Statistics (AIS
 
 # Submission Site
 
-The conference CMT site will open mid September. 
+The conference CMT site is available at 
 
 [{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
 
