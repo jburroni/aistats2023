@@ -83,6 +83,9 @@ conference:
     - name: Paper submission deadline
       text: 13 October 2022 (Anywhere on Earth)
       type: submission
+    - name: Supplementary materials submission deadline
+      text: 20 October 2022 (Anywhere on Earth)
+      type: submission
     - name: Reviews released to authors
       date: 21 November 2022
     - name: Paper decision notifications

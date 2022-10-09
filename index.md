@@ -12,7 +12,7 @@ The 26th International Conference on Artificial Intelligence and Statistics (AIS
 
 # Submission Site
 
-The conference CMT site will open mid September. 
+The conference CMT site is available at 
 
 [{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
 
@@ -24,8 +24,8 @@ Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) fo
 
 {% include listallchairs.html program_committee=true %}
 
-# Contributing 
+<!-- # Contributing 
 
 If you would like to nominate yourself or a colleague for a role as a reviewer, meta-reviewer, or organizing committee member (future or current), then you can do so using the following form:
 
-[https://forms.gle/5HmYFiNCHfEm7ipt9](https://forms.gle/5HmYFiNCHfEm7ipt9)
+[https://forms.gle/5HmYFiNCHfEm7ipt9](https://forms.gle/5HmYFiNCHfEm7ipt9) -->
