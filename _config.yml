@@ -111,19 +111,6 @@ conference:
       given: Jan-Willem
       url: https://jwvdm.github.io
       institute: University of Amsterdam
-  - type: Sponsorship Chair
-    people:
-    - family: Mandt
-      given: Stephan
-      url: https://cims.nyu.edu/~andrewgw/
-      institute: UC Irvine
-  - type: Diversity and Inclusion Chair
-    people: 
-    - family: Williamson
-      given: Sinead
-      url:  sinead@austin.utexas.edu
-      institute: UT Austin
-  # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
     - family: Hill
@@ -134,3 +121,22 @@ conference:
       given: Christian
       url: https://naesseth.github.io/
       institute: University of Amsterdam
+  - type: Sponsorship Chair
+    people:
+    - family: Mandt
+      given: Stephan
+      url: https://cims.nyu.edu/~andrewgw/
+      institute: UC Irvine
+  - type: Diversity and Inclusion Chair
+    people: 
+    - family: Williamson
+      given: Sinead
+      url:  https://sinead.github.io/
+      institute: UT Austin
+  - type: Local Chair
+    people: 
+    - family: Fernández-Torres
+      given: Miguel-Ángel
+      url: https://miguelangelft.github.io/
+      institute: Universitat de València
+  # You might want Workflow Chair(s) to assist with your submission system and the review process.     
