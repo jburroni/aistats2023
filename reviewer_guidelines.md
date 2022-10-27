@@ -2,7 +2,7 @@
 title: Reviewer Guidelines
 layout: default
 weight: 6
-hide: true
+hide: false
 ---
 
 # AISTATS 2023 Reviewer Guidelines
