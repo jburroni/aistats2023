@@ -5,7 +5,7 @@ weight: 6
 hide: true
 ---
 
-# AISTATS 2022 Reviewer Guidelines
+# AISTATS 2023 Reviewer Guidelines
 
 ## How to Review?
 
@@ -218,7 +218,7 @@ injury.**
 
     Agree to abide by the AISTATS code
     of conduct The AISTATS code of conduct can be found here: 
-    [AISTATS Code of Conduct](https://aistats.org/aistats2022/code-conduct.html)
+    [AISTATS Code of Conduct](https://aistats.org/aistats2023/code-of-conduct.html)
 
 
 17. **Confidentiality agreement.**
@@ -263,7 +263,7 @@ know as soon as possible.
 
 If someone pressures you into providing a positive or negative review for a
 submission, please notify the Program Chairs right away at
-[aistats2022+pc@gmail.com](mailto:aistats2022+pc@gmail.com).
+[aistats2023@gmail.com](mailto:aistats2023@gmail.com).
 
 If you notice unethical or suspect behavior, please notify your Area Chair right
 away.
@@ -271,7 +271,7 @@ away.
 
 ## How to Access and Download Your Assigned Papers
 
-1. Login to the [CMT portal](https://cmt3.research.microsoft.com/AISTATS2022/Submission/Rvw) using your **reviewer CMT email address**.
+1. Login to the [CMT portal](https://cmt3.research.microsoft.com/AISTATS2023/Submission/Rvw) using your **reviewer CMT email address**.
 
 2. Select “Reviewer” role by clicking next to “Select Your Role” at the top of the page. You will then see the submissions that are assigned to you in your console. Note that the reviewing process is double-blind, so you will not see author information.
 
@@ -280,10 +280,10 @@ away.
 
 ## Other Remarks
 
-1. **Minor formatting issues.** You may find papers with minor formatting issues such as different citation styles. Moreover, a large percentage of papers uses the font Times New Roman, which is slightly smaller than the default Computer Modern font from the template. We have decided not to desk-reject these papers and ask you to disregard such minor formatting issues in your reviews (please flag them but do not change your score/evaluation). We will take them into account and ensure the correct style is used if the paper gets accepted.
+1. **Minor formatting issues.** You may find papers with minor formatting issues such as different citation styles. We have decided not to desk-reject these papers and ask you to disregard such minor formatting issues in your reviews (please flag them but do not change your score/evaluation). We will take them into account and ensure the correct style is used if the paper gets accepted.
 
-2. **Supplement.** Some authors forgot to separate the pages for supplementary materials from the main paper, e.g., by splitting the PDF. We are keeping these papers in the review process. If you find such extra pages, you can treat them as supplementary materials. As stated in [the CfP](https://aistats.org/aistats2022/cfp.html), looking at the supplementary materials is optional to evaluate the submission.
+2. **Supplement.** Some authors forgot to separate the pages for supplementary materials from the main paper, e.g., by splitting the PDF. We are keeping these papers in the review process. If you find such extra pages, you can treat them as supplementary materials. As stated in [the CfP](https://aistats.org/aistats2023/call-for-papers.html), looking at the supplementary materials is optional to evaluate the submission.
 
 3. **Links in submission.** Some submissions may contain links (e.g., URL) to external materials such as code. We wish to emphasize that we cannot guarantee the safety of such external links. Our general recommendation is that you not follow such links and simply take it as a statement from the authors that they are ready to make such material available if the paper is accepted. If you decide to access a link, be aware it might reveal that you have consulted the linked site, and thus potentially reveal that you are involved in the reviewing of the paper. 
 
-4. **Code in Github.** Some of the papers assigned to you may have submitted code. Note that, as for any supplementary material, reviewing such additional information (e.g., code) is optional. When accessing anonymous Github links submitted by authors, please make sure to directly download the code or clone the repository after logging out of your own github account; please do not fork the repository as this might reveal your identity to the authors. Note also that any submitted code may contain security vulnerabilities.
+4. **Code in Github.** Some of the papers assigned to you may have submitted code. Note that, as for any supplementary material, reviewing such additional information (e.g., code) is optional. When accessing anonymous Github links submitted by authors, please make sure to directly download the code or clone the repository after logging out of your own Github account; please do not fork the repository as this might reveal your identity to the authors. Note also that any submitted code may contain security vulnerabilities.
