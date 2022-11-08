@@ -89,7 +89,8 @@ conference:
     - name: Reviews released to authors
       date: 21 November 2022
     - name: Author rebuttal deadline
-      date: 5 December 2022 (Anywhere on Earth)
+      text: 5 December 2022 (Anywhere on Earth)
+      type: submission
     - name: Paper decision notifications
       date: 19 January 2023
       type: decision
