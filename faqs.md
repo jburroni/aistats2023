@@ -122,5 +122,5 @@ Authors will be given the opportunity to respond to their reviews before decisio
 
 
 LaTeX files for writing a response to reviewers are available on the [AISTATS 2023]({{ "index.html" | relative_url }})  homepage ([click here to download the files](http://aistats.org/aistats2023/AISTATS2023_Author_Response_Pack.zip)).
-Author responses are due Sunday, December 4, 2022 (Anywhere on Earth).
+Author responses are due Monday, December 5, 2022 (Anywhere on Earth).
 
