@@ -18,6 +18,12 @@ The conference CMT site is available at
 
 Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
 
+# Sponsorship Information
+
+Please visit the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
+
+
+
 # Organizing Committee
 
 {%if site.author.email %}General inquiries should be sent to [{{ site.author.email }}](mailto:{{ site.author.email }}).{%endif%}
