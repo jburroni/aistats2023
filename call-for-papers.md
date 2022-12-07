@@ -71,7 +71,7 @@ The reviewers and area-chairs of your paper will have access to your paper and s
 
 Reviews will be visible to area chairs, program chairs, and workflow chairs throughout the process. Reviewers will get access to other reviews for a paper after they have submitted their own review.
 
-Author names will be visible to area chairs and program chairs. Reviewers will not know the author names at any stage of the process. Reviewer names are visible to the area chair and to the other reviewers of each paper (as well as to program chairs).
+Author names will be visible to program chairs and workflow chairs. Reviewers and area chairs will not know the author names at any stage of the process. Reviewer names are visible to the area chairs, workflow chairs, and program chairs.
 
 
 _Jennifer Dy and Jan-Willem van de Meent_\
