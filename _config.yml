@@ -128,8 +128,14 @@ conference:
     people:
     - family: Mandt
       given: Stephan
-      url: https://cims.nyu.edu/~andrewgw/
+      url: http://www.stephanmandt.com/
       institute: UC Irvine
+  - type: Communications Chair
+    people: 
+    - family: Lotfi
+      given: Sanae
+      url: https://sanaelotfi.github.io/
+      institute: New York University
   - type: Diversity and Inclusion Chair
     people: 
     - family: Williamson
