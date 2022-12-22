@@ -148,4 +148,10 @@ conference:
       given: Miguel-Ángel
       url: https://miguelangelft.github.io/
       institute: Universitat de València
+  - type: Volunteer Chair
+    people: 
+    - family: Fernández-Torres
+      given: Miguel-Ángel
+      url: https://miguelangelft.github.io/
+      institute: Universitat de València
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
