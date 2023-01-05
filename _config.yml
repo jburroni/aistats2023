@@ -53,7 +53,7 @@ conference:
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
-  venue: TBD, hybrid in-person and virtual.
+  venue: TBD.
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.

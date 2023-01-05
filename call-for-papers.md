@@ -32,7 +32,7 @@ Solicited topics include, but are not limited to:
 
 ## Conference Location and Format
 
-The AISTATS 2023 organizing committee is committed to the safety and health of our community.  We are currently reviewing the best option for AISTATS 2023 (either physical, virtual conference, or hybrid). As soon as we have made a final decision, we will update the information to the webpage. Thank you for your patience and understanding.
+The AISTATS 2023 organizing committee is committed to the safety and health of our community.  We are currently reviewing the best option for AISTATS 2023. As soon as we have made a final decision, we will update the information to the webpage. Thank you for your patience and understanding.
 
 
 ## Formatting and Supplementary Material
