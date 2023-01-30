@@ -130,12 +130,16 @@ conference:
       given: Stephan
       url: http://www.stephanmandt.com/
       institute: UC Irvine
-  # - type: Communications Chair
-  #   people: 
-  #   - family: Lotfi
-  #     given: Sanae
-  #     url: https://sanaelotfi.github.io/
-  #     institute: New York University
+  - type: Communications Chairs
+    people: 
+    - family: Makar
+      given: Maggie
+      url: https://mymakar.github.io/
+      institute: University of Michigan
+    - family: Izmailov
+      given: Pavel
+      url: https://izmailovpavel.github.io/
+      institute: New York University
   - type: Diversity and Inclusion Chair
     people: 
     - family: Williamson
