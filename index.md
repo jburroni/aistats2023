@@ -10,7 +10,7 @@ The 26th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
 
-# Key Dates 
+<!-- # Key Dates 
 
 {% include listdates.html %}
 
@@ -20,11 +20,16 @@ The conference CMT site is available at
 
 [{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
 
-Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
+Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions.  -->
 
 # Sponsorship Information
 
 Please visit the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
+
+
+# Volunteer Information
+
+Volunteer applications are now open on the conference virtual site: [https://virtual.aistats.org/Volunteers/volunteerapplication](https://virtual.aistats.org/Volunteers/volunteerapplication). The deadline to apply is February 20, 2023.
 
 
 
