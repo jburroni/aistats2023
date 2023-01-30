@@ -142,6 +142,12 @@ conference:
       given: Sinead
       url:  https://sinead.github.io/
       institute: UT Austin
+  - type: Publication Chair
+    people: 
+    - family: Geffner
+      given: Thomas
+      url: https://people.umass.edu/tgeffner/
+      institute: UMass Amherst
   - type: Local Chair
     people: 
     - family: Fernández-Torres
