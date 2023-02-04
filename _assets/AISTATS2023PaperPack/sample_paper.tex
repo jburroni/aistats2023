@@ -1,6 +1,6 @@
 \documentclass[twoside]{article}
 
-\usepackage{aistats2023}
+\usepackage[accepted]{aistats2023}
 % If your paper is accepted, change the options for the package
 % aistats2023 as follows:
 %
@@ -57,8 +57,8 @@
 
 \section{GENERAL FORMATTING INSTRUCTIONS}
 
-The camera-ready versions of the accepted papers are 8 pages,
-plus any additional pages needed for references.
+The camera-ready versions of the accepted papers are 9 pages,
+plus any additional pages needed for references and textual supplementary material.
 
 Papers are in 2 columns with the overall line width of 6.75~inches (41~picas).
 Each column is 3.25~inches wide (19.5~picas).  The space
@@ -179,15 +179,10 @@ Soma             &Cell body (contains cell nucleus) \\
 
 \section{SUPPLEMENTARY MATERIAL}
 
-If you need to include additional appendices during submission, you can include them in the supplementary material file.
-You can submit a single file of additional supplementary material which may be either a pdf file (such as proof details) or a zip file for other formats/more files (such as code or videos). 
-Note that reviewers are under no obligation to examine your supplementary material. 
-If you have only one supplementary pdf file, please upload it as is; otherwise gather everything to the single zip file.
+If you need to include additional \textit{textual} appendices (such as missing proofs, additional results) during submission, please include them in the same PDF file as the main paper. Non-textual supplementary material (such as code or videos) must be submitted in a separate ZIP file named 642-supp.zip (with 642 replaced with your paper ID on CMT).
 
-You must use \texttt{aistats2023.sty} as a style file for your supplementary pdf file and follow the same formatting instructions as in the main paper. 
-The only difference is that it must be in a \emph{single-column} format.
-You can use \texttt{supplement.tex} in our starter pack as a starting point.
-Alternatively, you may append the supplementary content to the main paper and split the final PDF into two separate files.
+The textual supplementary material must follow the same formatting instructions as in the main paper. 
+The only difference is that it must be in a \emph{single-column} format. Please see section A for further instructions regarding supplementary material.
 
 \section{SUBMISSION INSTRUCTIONS}
 
@@ -207,8 +202,8 @@ To submit your paper to AISTATS 2023, please follow these instructions.
     package \texttt{fancyhdr.sty} to include headings for even and odd
     numbered pages.
     \item When you are ready to submit the manuscript, compile the latex file to obtain the pdf file.
-    \item Check that the content of your submission, \emph{excluding} references, is limited to \textbf{8 pages}. The number of pages containing references alone is not limited.
-    \item Upload the PDF file along with other supplementary material files to the CMT website.
+    \item Check that the content of your submission, \emph{excluding} references and textual supplementary materials, is limited to \textbf{9 pages}. The number of pages containing references and supplementary materials alone is not limited.
+    \item Upload the PDF file along with other (non-textual) supplementary material files to the CMT website.
 \end{enumerate}
 
 \subsection{Camera-ready Papers}
@@ -256,12 +251,12 @@ If your papers are accepted, you will need to submit the camera-ready version. P
 
     %\item Use the file sample\_paper.tex as an example.
 
-    \item The camera-ready versions of the accepted papers are 8
-      pages, plus any additional pages needed for references.
+    \item The camera-ready versions of the accepted papers are 9
+      pages, plus any additional pages needed for references and textual supplementary material.
 
-    \item If you need to include additional appendices,
-      you can include them in the supplementary
-      material file.
+    \item If you need to include additional appendices: The textual supplementary material must be included
+    in a single PDF file with the main paper. Non-textual supplementary material (e.g. code) must be submitted
+    in a separate supplementary material ZIP file.
 
     \item Please, do not change the layout given by the above
       instructions and by the style file.
@@ -297,5 +292,57 @@ references do not count against your page length total.
     \newblock Neurogammon wins computer Olympiad.
     \newblock \textit{Neural Computation} \textbf{1}(3):321--323.
 \end{thebibliography}
+
+% If you have textual supplementary material
+\appendix
+\onecolumn
+
+\section{FORMATTING INSTRUCTIONS APPENDICES}
+
+The textual supplementary material should be included in the \textbf{same PDF file} as the main paper. The only difference is that the supplementary material must be in a \emph{single-column} format.
+
+\section{MISSING PROOFS}
+
+The supplementary materials may contain detailed proofs of the results that are missing in the main paper.
+
+\subsection{Proof of Lemma 3}
+
+\textit{In this section, we present the detailed proof of Lemma 3 and then [ ... ]}
+
+\section{ADDITIONAL EXPERIMENTS}
+
+If you have additional experimental results, you may include them in the supplementary materials.
+
+\subsection{The Effect of Regularization Parameter}
+
+\textit{Our algorithm depends on the regularization parameter $\lambda$. Figure 1 below illustrates the effect of this parameter on the performance of our algorithm. As we can see, [ ... ]}
+
+\section{NON-TEXTUAL SUPPLEMENTARY MATERIAL}
+
+The (optional) non-textual supplementary material (e.g. code for the paper) should be submitted as a separate ZIP file.
+
+\begin{itemize}
+\item Your supplementary material file should be named 642-supp.zip (with 642
+  replaced with your paper ID on CMT).
+\item If you wish to include any code/datasets as part of the supplementary
+  material, you can: (i) include it in the ZIP file of your supplementary
+  material, and/or (ii) provide the public URL where the code can be found in
+  the appropriate field of CMT submission form.  If you promised to release
+  code/datasets (either in the original submission PDF or during the rebuttal),
+  the code/dataset must be released. In this case, the AISTATS Chairs will
+  check the availability of the code/dataset and, if it isn’t available by the
+  camera-ready deadline, your submission may be excluded from the conference
+  proceedings.
+\item If you wish to include any **videos** as part of the supplementary material,
+  please do not include them in the ZIP file. Instead, simply provide the
+  public URL where the video is available in the appropriate field of the CMT
+  submission form. NOTE: This does not refer to the recorded presentation
+  explaining your paper, which will be submitted/recorded separately, but to any other videos containing, e.g., experimental results.
+\item Do not include any textual supplementary material in the ZIP file. It must be
+  included in the same PDF as the main paper.
+\end{itemize}
+
+
+\vfill
 
 \end{document}
