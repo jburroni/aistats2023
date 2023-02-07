@@ -5,6 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/aistats2023" # the subpath of your site, e.g. /blog/
 timezone: EST
 
+# Title that appears in page header
+banner_title: Artificial Intelligence and Statistics 2023
+
 # If you want to create a twitter account for your conference include
 # twitter name here
 twitter_username: 

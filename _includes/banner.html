@@ -2,9 +2,7 @@
 {% capture banner_title %}{% if site.banner_title or page.banner_title %}{%if page.banner_title %}{{ page.banner_title }}{% else %}{{site.banner_title }}{% endif %}{% else %}{{ site.data.conference.name }} {{ site.data.conference.year }}{%endif%}{% endcapture %}
 <style>{%- if banner_image_url -%}
 .hero-image {
-  background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0, 0, 0, 0.0)), url({{ banner_image_url }});
-  min-width: 600px;
-  margin-left: 65px;
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0, 0, 0, 0.2)), url({{ banner_image_url }});
 }
   {%- else -%}
 .hero-text {
