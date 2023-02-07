@@ -6,6 +6,8 @@ weight: 5
 
 <h1>{{ site.data.conference.short_name }} {{ site.data.conference.year }} Reviewers and Meta-Reviewers </h1>
 
+AISTATS is possible thanks to the tireless work of the whole community, including a large team of reviewers and area chairs. They are essential to selecting a good program, and to providing constructive feedback to authors. The program chairs wish to give a special thank you to all our reviewers and area chairs for their hard work.
+
 <h2>Top Reviewers</h2>
 
 {%- if site.data.top_reviewers -%}

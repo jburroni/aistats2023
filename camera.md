@@ -64,13 +64,7 @@ instructions:
    [Publications Chair](aistats2023@gmail.com).
 6. Your paper must use **US letter** format (default in the style file). Do 
    **not** change this to A4 paper format.
-7. You must use the **default LaTeX font**; please don’t change it.  For
-   example, do **NOT** include the line `\usepackage{times}` used in other
-   conferences (e.g., ICML, NeurIPS, or ICLR). In addition, please **avoid
-   using Type 3 fonts** anywhere in your document, including in embedded
-   images. See
-   <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html>
-   for more information.
+7. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
 8. Please use **ALL CAPS section headings**, as detailed in the latex templates.
 9. Citations **must** be in the **“(Author, Year)” format**, e.g., (Cheesman, 1985). To
    achieve that, you may use the `natbib` latex package (or any other similar one

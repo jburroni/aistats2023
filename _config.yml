@@ -25,7 +25,8 @@ plugins:
 - jekyll-remote-theme
 # change encoding for the generated output files to utf-8
 encoding: utf-8
-remote_theme: lawrennd/proceedings
+remote_theme: aistats/jekyll-theme
+# remote_theme: https://github.com/lawrennd/proceedings
 style: aistats
 
 ghub:
