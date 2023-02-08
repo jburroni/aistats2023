@@ -36,9 +36,7 @@ obtain a submission code from the paper style checker by uploading this PDF
 file to 
 <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2023/> 
 (see [Submission to CMT](#submission-to-cmt) for details). The style
-checker has a **10MB file size limit**. **PDFs above 10MB should be trimmed** by
-removing the supplement before using the style checker. (The supplement should
-be included with the main paper in a **single PDF file** when submitting to CMT.)
+checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement (The supplement should be included with the main paper in a **single PDF file** when submitting to CMT.)
 
 
 The PDF file should be named **642.pdf**, with 642 replaced with your submission ID
@@ -130,8 +128,7 @@ sufficient for one author to sign the agreement on behalf of all authors.
 * Your paper must **not exceed 9 pages**, except for acknowledgements, references,
   and (optionally) textual supplementary material.
 * Your paper must be in **US letter size** (i.e., not A4 or other sizes).
-* Your paper must use the default LaTeX font; e.g., the tex file should **NOT**
-  contain the line `\usepackage{times}` or any other line that changes the font.
+* You must use the fonts as defined in the style file.
 * Please ensure that your camera-ready submission contains author information
   (names and affiliations), instead of "Anonymous Author N" as was required for
   the original submission, and that the submitted list of authors and the
@@ -171,12 +168,7 @@ obtain a submission code. (Please ignore the warnings of the style checker.)
 further edit the PDF, you will need to obtain another submission code.  
 3. When submitting your paper on CMT,  you need to provide the style checker
    submission code.
-4. The style checker has a **10MB file size limit**.
-**PDFs above 10MB should be trimmed** by removing the supplement
-before using the style checker. (This is only for the purpose of getting the
-submission code. The supplement should be included with
-the main paper in a **single PDF file** when submitting the camera ready
-to CMT.)
+4. The style checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement.
 
 You may continue to edit your camera-ready submissions until the camera-ready
 deadline.
