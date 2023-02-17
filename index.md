@@ -10,6 +10,8 @@ The 26th International Conference on Artificial Intelligence and Statistics (AIS
 
 Registration is now open on the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
 
+**The deadline for early registration is Mar 17th @ 6pm PET!**
+
 # Sponsorship Information
 
 Please visit the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
