@@ -37,10 +37,10 @@ You can check current CEST time [here](https://time.is/CEST).
 | 08:00-09:00 |	Mentoring event 1                                   |
 | 09:00-10:00 |	Invited talk 2                                      |
 | 10:00-10:30 |	Coffee break                                        |
-| 10:30-11:30 |	Test-of-time award                                  |
-| 11:30-12:30 |	Oral session 4                                      |
+| 10:30-11:30 |	Oral session 4                                      |
+| 11:30-12:30 |	Oral session 5                                      |
 | 12:30-14:00 |	Lunch break                                         |
-| 14:00-15:00 |	Oral session 5                                      |
+| 14:00-15:00 |	Test-of-time award                                 |
 | 15:00-15:30 |	Coffee break                                        |
 | 15:30-16:30 |	Oral session 6                                      |
 | 16:30-19:00 |	Poster session 2                                    |
