@@ -144,6 +144,30 @@ conference:
       given: Pavel
       url: https://izmailovpavel.github.io/
       institute: New York University
+  - type: Logistics and IT
+    people:
+    - family: Olmos
+      given: Pablo M.
+      url: https://www.tsc.uc3m.es/~olmos/
+      institute: Universidad Carlos III de Madrid
+    - family: Brockmeyer
+      given: Brad
+      institute: Eventhosts
+    - family: Nettleton
+      given: Brian
+      institute: Eventhosts
+    - family: Campbell
+      given: Lee
+      institute: Eventhosts
+    - family: Perry
+      given: Mary Ellen
+      institute: Level 5 Events
+    - family: Wiesner
+      given: Max A.
+      institute: Eventhosts
+    - family: Auricchio
+      given: Terri
+      institute: Eventhosts
   - type: Diversity and Inclusion Chair
     people: 
     - family: Williamson

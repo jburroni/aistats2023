@@ -6,7 +6,7 @@ weight: 5
 
 <h1>{{ site.data.conference.short_name }} {{ site.data.conference.year }} Accepted Papers</h1>
 
-<h2>Orals</h2>
+<h2>Notable papers</h2>
 
 {%- if site.data.orals_fixed -%}
 <ul>
