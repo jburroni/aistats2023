@@ -40,6 +40,11 @@ Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) fo
 
 {% include listallchairs.html program_committee=true %}
 
+# LatinX in AI Social
+
+[LatinX in AI Social](https://www.latinxinai.org/aistats-2023) at AISTATS 2023 will take place April 25 - April 27, 2023
+to connect LatinX identifying AI researchers and engineers.
+
 <!-- # Contributing 
 
 If you would like to nominate yourself or a colleague for a role as a reviewer, meta-reviewer, or organizing committee member (future or current), then you can do so using the following form:
