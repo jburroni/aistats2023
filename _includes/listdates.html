@@ -1,11 +1,16 @@
 <ul>
 	{% for deadline in site.conference.deadlines %} 
 	<li>
-		<s>
+		{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+		{% capture deadlinetime %}{{deadline.date  | date: '%s'}}{% endcapture %}
+		{% if deadlinetime < nowunix %}<s>{% endif %}
 		{% if deadline.important  %}<strong>{% endif %}
 			{{ deadline.name }}: {% if deadline.text %}{{ deadline.text }}{% elsif deadline.time %}<time datetime="{{ deadline.time }}">{{ deadline.time | date: "%A, %-d %B %Y %I:%M%P (%Z)" }}{% if site.TZ %} ({{ site.TZ }}){% endif %}</time>{% elsif deadline.date %}<time datetime="{{ deadline.date }}">{{ deadline.date | date: "%A, %B %-d, %Y" }}</time>{% endif %}
 			{% if deadline.important %}</strong>{% endif %}
-		</s> 
+		{% if deadlinetime < nowunix %}</s>{% endif %}
 	</li>
 	{% endfor %}
+	<li>
+			<strong>Conference dates: April 25 - April 27, 2023</strong>
+	</li>
 </ul>

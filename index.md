@@ -16,29 +16,35 @@ Registration is now open on the conference virtual site: [https://virtual.aistat
 
 Please visit the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).
 
-# Volunteer Information
-
-Volunteer applications are now open on the conference virtual site: [https://virtual.aistats.org/Volunteers/volunteerapplication](https://virtual.aistats.org/Volunteers/volunteerapplication). The deadline to apply is February 20, 2023.
-
 
 # Key Dates 
 
 {% include listdates.html %}
 
-# Submission Site
+# Accepted Papers and Awards
+
+The full list of accepted papers is available [here](/accepted.md).
+See also our [awards](/awards.md) page!
+
+
+# Submissions and Instructions
 
 The conference CMT site is available at 
 
 [{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
 
-Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions. 
+See also our detailed [poster and video instructions](/poster.md).
+
+<!-- Please see the [Call for Papers]({{ "call-for-papers.html" | relative_url }}) for instructions.  -->
 
 
 # Organizing Committee
 
+See our full organizing committee [here](/committee.html) and a full list of reviewers and meta-reviewers [here](/reviewers.md).
+
 {%if site.author.email %}General inquiries should be sent to [{{ site.author.email }}](mailto:{{ site.author.email }}).{%endif%}
 
-{% include listallchairs.html program_committee=true %}
+<!-- {% include listallchairs.html program_committee=true %} -->
 
 # LatinX in AI Social
 
