@@ -12,7 +12,7 @@ hide: false
 **Poster size (for authors attending in person).** Authors traveling to the conference should arrange to have their posters printed. The poster boards that will be used at the venue have size 190cm x 90cm (height x width). You can use any poster size as long as it fits on the board. We suggest portrait A0 (118.9 x 84.1 cm) or landscape A1 (59.4 x 84.1 cm).
 
 **Poster printing service (for all authors) (optional).** The AISTATS conference will provide a poster printing service. Click here to learn more about the fees and to access the [poster printing service](https://virtual.aistats.org/posterprinting/). Note that the posters printed using this service must be US-sized and in portrait orientation only. 
-- <u>Deadline</u>: March 25th 23:59 AoE.
+- <u>Deadline</u>: March 30th 23:59 AoE.
 - <u>For authors attending in person</u>: You will be able to collect your printed poster from the conference center.
 - <u>For authors not attending in person</u>: We will collect your printed poster and hang it on the poster board at the venue. Please [contact us](https://virtual.aistats.org/Help/Contact) in advance so that we are aware that you are not able to attend in person.
 
