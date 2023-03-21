@@ -101,7 +101,6 @@ conference:
     - name: Early registration deadline
       date: 17 March 2023
       type: registration
-      important: True
     - name: Poster printing service (optional)
       date: 30 March 2023
       type: submission
