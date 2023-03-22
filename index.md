@@ -21,7 +21,12 @@ Please visit the conference virtual site: [https://virtual.aistats.org/Conferenc
 
 {% include listdates.html %}
 
-# Accepted Papers and Awards
+
+# Program Schedule, Accepted Papers and Awards
+
+See our program schedule [here](/schedule.md).
+
+<!-- # Accepted Papers and Awards -->
 
 The full list of accepted papers is available [here](/accepted.md).
 See also our [awards](/awards.md) page!
