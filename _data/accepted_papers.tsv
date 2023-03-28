@@ -70,7 +70,7 @@ Paper ID	PaperTitle	AuthorNames
 248	Neural Laplace Control for Continuous-time Delayed Systems	"Holt, Samuel I*; Hüyük, Alihan; Qian, Zhaozhi; Sun, Hao; van der Schaar, Mihaela"
 250	Discovering Many Diverse Solutions with Bayesian Optimization	"Maus, Natalie*; Wu, Kaiwen; Eriksson, David; Gardner, Jacob"
 253	BlitzMask: Real-Time Instance Segmentation Approach for Mobile Devices	"Bulygin, Vitalii*; Mykheievskyi, Dmytro; Kuchynskyi, Kyrylo"
-254	Exact Gradient Computation for Spiking Neural Networks	"Lee, Jane H*; Haghighatshoar, Saeid; Karbasi, Amin"
+254	Exact Gradient Computation for Spiking Neural Networks via Forward Propagation	"Lee, Jane H*; Haghighatshoar, Saeid; Karbasi, Amin"
 263	Uni6Dv2: Noise Elimination for 6D Pose Estimation	"Sun, Mingshan*; Zheng, Ye; Bao, Tianpeng; Chen, Jianqiu; Jin, Guoqiang; Wu, Liwei; Zhao, Rui; Jiang, Xiaoke"
 267	Multilevel Bayesian Quadrature	"Li, Kaiyu*; Giles, Daniel; Karvonen, Toni; Guillas, Serge; Briol, Francois-Xavier"
 271	Direct Inference of Effect of Treatment (DIET) for a Cookieless World	"Shankar, Shiv*; Sinha, Ritwik; Mitra, Saayan; Sinha, Moumita; Fiterau, Madalina"
