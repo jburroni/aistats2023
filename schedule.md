@@ -312,7 +312,7 @@ Poster session 2
 <table>
 <tr>   
 <th> Time (<a href="https://time.is/CEST">CEST</a>)  </th>
-<th> <b>Day 2: Wed, April 26th</b>
+<th> <b>Day 3: Thu, April 27th</b>
 </th>
 </tr>
 
