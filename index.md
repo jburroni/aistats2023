@@ -31,6 +31,11 @@ See our program schedule [here](/schedule.md).
 The full list of accepted papers is available [here](/accepted.md).
 See also our [awards](/awards.md) page!
 
+See also:
+<a href="https://proceedings.mlr.press/v206/"><b>PMLR Conference Proceedings</b></a>
+and
+<a href="https://virtual.aistats.org/virtual/2023/papers.html"><b>Virtual Conference Website: Accepted Papers</b></a>.
+
 
 # Submissions and Instructions
 
