@@ -61,7 +61,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 1 | Optimal Transport, Information Theory</b>  </summary>
+<summary> Oral Session 1 | Optimal Transport, Information Theory  </summary>
 <ul>
 <li> The Schrödinger Bridge between Gaussian Measures has a Closed Form  
 </li>  
@@ -81,7 +81,14 @@ Coffee break
 11:30-12:30
 </td>
 <td>
-Affinity Groups Panel
+<details>
+<summary> 
+Affinity Groups Panel | Carving out a niche as a researcher
+</summary>
+<i>Panelists:</i> Marc Deisenroth, Jessica Schrouff, Santiago Velasco-Forero, Laura Montoya
+<br>
+<i>Moderator:</i> Francisco J. R. Ruiz
+</details>
 </td>
 </tr>
 
@@ -100,7 +107,7 @@ Lunch break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 2 | Trustworthy ML and Statistics</b>  </summary>
+<summary> Oral Session 2 | Trustworthy ML and Statistics  </summary>
 <ul>
 <li> Who Should Predict? Exact Algorithms For Learning to Defer to Humans   
 </li>
@@ -130,7 +137,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 3 | Representations of Graphs</b>  </summary>
+<summary> Oral Session 3 | Representations of Graphs </summary>
 <ul>
 <li> The Power of Recursion in Graph Neural Networks for Counting Substructures   
 </li>
@@ -167,14 +174,14 @@ Poster session 1
 </th>
 </tr>
 
-<tr>
+<!-- <tr>
 <td>
 08:00-09:00
 </td>
 <td>
 Mentoring Event 1
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td>
@@ -184,7 +191,7 @@ Mentoring Event 1
 <a href="{{ "/invited.html#shakir-mohammed" | relative_url }}">Keynote Talk: Shakir Mohamed (Deepmind)</a>  
 <details>
 <summary>
-<b>Elevating our Evaluations: Technical and Sociotechnical Standards of Assessment in Machine Learning</b>
+Elevating our Evaluations: Technical and Sociotechnical Standards of Assessment in Machine Learning
 </summary>
  Evaluation in Machine Learning does not always get the attention it deserves. I hope to focus our attention for the time of this talk on the questions of systematic evaluation in machine learning and the changes that we should continue to make as we elevate the standard of evaluation across our field. The breadth of application areas we collaborate on in machine learning requires a variety of approaches for evaluation, and we'll explore this variety by considering applications in generative models, social good, healthcare, and environmental science. Grounded in these applications, we will expand the conceptual aperture through which we think about machine learning evaluations, starting from purely technical evaluations (thinking about likelihoods), moving to mixed methods (with proper scoring rules and expert assessments), and then to sociotechnical assessments (considering fairness, impacts, and participation). My core message is that broad and expansive evaluation remains fundamental and an area into which I hope we will drive even greater investments as a community, together.
 </details>
@@ -207,7 +214,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 4 | Probabilistic Methods 1</b>  </summary>
+<summary> Oral Session 4 | Probabilistic Methods 1  </summary>
 <ul>
 <li> Do Bayesian Neural Networks Need To Be Fully Stochastic?   
 </li>
@@ -228,7 +235,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 5 | Probabilistic Methods 2</b>  </summary>
+<summary> Oral Session 5 | Probabilistic Methods 2  </summary>
 <ul>
 <li> BaCaDI: Bayesian Causal Discovery with Unknown Interventions   
 </li>
@@ -278,7 +285,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 6 | Statistical Methods 1</b>  </summary>
+<summary> Oral Session 6 | Statistical Methods 1  </summary>
 <ul>
 <li> Huber-robust confidence sequences   
 </li>
@@ -321,7 +328,7 @@ Poster session 2
 08:00-09:00
 </td>
 <td>
-Mentoring Event 2
+Mentoring Event | Tips for Scientific Writing by Marc Deisenroth
 </td>
 </tr>
 
@@ -334,7 +341,7 @@ Mentoring Event 2
 <!-- <br>An Automatic Finite-Sample Robustness Check: Can Dropping a Little Data Change Conclusions? -->
 <details>
 <summary>
-<b>An Automatic Finite-Sample Robustness Check: Can Dropping a Little Data Change Conclusions?</b>
+An Automatic Finite-Sample Robustness Check: Can Dropping a Little Data Change Conclusions?
 </summary>
 Practitioners will often analyze a data sample with the goal of applying any conclusions to a new population. For instance, if economists conclude microcredit is effective at alleviating poverty based on observed data, policymakers might decide to distribute microcredit in other locations or future years. Typically, the original data is not a perfect random sample from the population where policy is applied -- but researchers might feel comfortable generalizing anyway so long as deviations from random sampling are small, and the corresponding impact on conclusions is small as well. Conversely, researchers might worry if a very small proportion of the data sample was instrumental to the original conclusion. So we propose a method to assess the sensitivity of statistical conclusions to the removal of a very small fraction of the data set. Manually checking all small data subsets is computationally infeasible, so we propose an approximation based on the classical influence function. Our method is automatically computable for common estimators. We provide finite-sample error bounds on approximation performance and a low-cost exact lower bound on sensitivity. We find that sensitivity is driven by a signal-to-noise ratio in the inference problem, does not disappear asymptotically, and is not decided by misspecification. Empirically we find that many data analyses are robust, but the conclusions of several influential economics papers can be changed by removing (much) less than 1% of the data.
 </details>
@@ -356,7 +363,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 7 | Supervised Learning</b>  </summary>
+<summary> Oral Session 7 | Supervised Learning  </summary>
 <ul>
 <li> Don't be fooled: label leakage in explanation methods and the importance of their quantitative evaluation   
 </li>
@@ -377,7 +384,7 @@ Coffee break
 </td>
 <td>
 <details>
-<summary> <b>Oral Session 8 | Statistical Methods 2</b>  </summary>
+<summary> Oral Session 8 | Statistical Methods 2  </summary>
 <ul>
 <li> Scalable Bicriteria Algorithms for Non-Monotone Submodular Cover   
 </li>
