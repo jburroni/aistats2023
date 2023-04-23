@@ -168,6 +168,15 @@ Poster session 1
 </td>
 </tr>
 
+<tr>
+<td>
+18:00-20:00
+</td>
+<td>
+<a href="https://www.latinxinai.org/aistats-2023#:~:text=LatinX%20in%20AI%20Social%20at,25%20%2D%20April%2027%2C%202023">LatinX in AI Social</a> (Main Auditorium)
+</td>
+</tr>
+
 </table>
 
 
