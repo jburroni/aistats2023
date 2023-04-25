@@ -6,8 +6,6 @@ weight: 7
 
 # {{ site.data.conference.short_name }} {{ site.data.conference.year }} Program Schedule 
 
-**Schedule is tentative and is subject to changes!**
-
 **All times are CEST.**
 You can check current CEST time [here](https://time.is/CEST).
 
