@@ -6,6 +6,8 @@ weight: 1
 
 The 26th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on April 25 - April 27, 2023. This conference will be held at Palau de Congressos, Valencia, Spain as an in-person event.
 
+**Talk recordings are now available <a href="https://www.youtube.com/@AISTATSConference/featured">here</a>!**
+
 # Conference Registration
 
 Registration is now open on the conference virtual site: [https://virtual.aistats.org/Conferences/2023](https://virtual.aistats.org/Conferences/2023).

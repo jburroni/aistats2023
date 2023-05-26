@@ -7,6 +7,8 @@ weight: 5
 
 # Invited Speakers
 
+**Talk recordings are available <a href="https://www.youtube.com/@AISTATSConference/featured">here</a>.**
+
 <h2 id="arthur-gretton"><a href="https://www.gatsby.ucl.ac.uk/~gretton/">Arthur Gretton (UCL)</a></h2>
 
 
