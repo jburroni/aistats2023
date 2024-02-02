@@ -14,8 +14,11 @@ Please take some time to read these instructions **in full**. For your camera-re
 ## TL;DR
 * Camera-ready deadline is **Thursday, February 22nd,
 2024, Anywhere on Earth**.
-* You have to use the **new LaTeX style fyle** available at: <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>
-* You have to **upload one PDF file with the paper** (mandatory), **one PDF filled and signed copyright form** (mandatory), and **one URL link to a GitHub repository with code/datasets** (optional).
+* You have to use the **new LaTeX style file** available at: <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>
+* You have to **upload one PDF file with the paper** (mandatory), **one PDF filled and signed copyright form** (mandatory), and **one URL link to a GitHub repository with code/datasets** (optional).  
+
+
+Please read the complete details below.
 
 ## Deadline
 
