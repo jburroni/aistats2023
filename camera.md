@@ -15,16 +15,15 @@ Please take some time to read these instructions **in full**. For your camera-re
 ## Deadline
 
 
-The deadline for the camera-ready submission is **Thursday, February 23rd,
-2023, Anywhere on Earth**. This is a strict deadline; no extensions to the deadline will be granted in any cases. If you miss the deadline, your paper will not be included in the proceedings. We strongly recommend submitting your camera-ready version well in advance of this deadline.
+The deadline for the camera-ready submission is **Thursday, February 22rd,
+2024, Anywhere on Earth**. This is a strict deadline; no extensions to the deadline will be granted in any cases. If you miss the deadline, your paper will not be included in the proceedings. We strongly recommend submitting your camera-ready version well in advance of this deadline.
 
 
 ## Submission instructions
 
 
 You have to upload one PDF file (mandatory), one PDF filled and signed
-copyright form (mandatory), and one ZIP file containing the non-textual
-supplementary material (optional).
+copyright form (mandatory), and one url link to a GitHub repository with code/datasets (optional).
 
 
 1) **PDF file (mandatory).** The PDF file must contain the paper, including the
@@ -34,7 +33,7 @@ supplementary material ("the appendix") **must** follow the paper content (after
 Acknowledgements and References) in the **same PDF file**. You will also have to
 obtain a submission code from the paper style checker by uploading this PDF
 file to 
-<https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2023/> 
+<https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2024/> 
 (see [Submission to CMT](#submission-to-cmt) for details). The style
 checker has a **10MB file size limit**. **PDFs above 10MB should be reduced**, for example by reducing the pixel density and/or compression rate of included figures in the main text and supplement (The supplement should be included with the main paper in a **single PDF file** when submitting to CMT.)
 
@@ -48,7 +47,7 @@ instructions:
 
 
 1. Please use the **UPDATED** LaTeX style file available at:
-   <https://aistats.org/aistats2023/AISTATS2023CameraReadyPaperPack.zip>.
+   <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
 2. Use the **NEW `sample_paper.tex`** file as the starting file for your submission,
    as it contains some important changes.
 3. Camera-ready submissions are **limited to 9 pages**, excluding acknowledgements,
@@ -59,7 +58,7 @@ instructions:
    must now be submitted as a **single PDF** instead of two separate files.
 5. Do not change the style file, including spacing. If you have questions about
    the style file or its usage, please contact the 
-   [Publications Chair](aistats2023@gmail.com).
+   [Publications Chair](aistats2024@gmail.com).
 6. Your paper must use **US letter** format (default in the style file). Do 
    **not** change this to A4 paper format.
 7. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
@@ -72,7 +71,7 @@ instructions:
    (1985), we first frobulate the widgets.”
 10. The paper must be **de-anonymized**, i.e., the author names and institutions
     should be visible. For that, please make sure to use
-    `\usepackage[accepted]{aistats2023}` when loading the style file.
+    `\usepackage[accepted]{aistats2024}` when loading the style file.
 11. The acknowledgements section should be titled "Acknowledgments".
     Acknowledgements are optional, but if your paper contains this section, it
     must appear before the References.
@@ -84,7 +83,7 @@ instructions:
     <https://usabilla.com/blog/how-to-design-for-color-blindness>.
 14. Further formatting instructions can be found in the `sample_paper.pdf` file
     available at
-    <http://aistats.org/aistats2023/AISTATS2023CameraReadyPaperPack.zip>.
+    <http://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
 
 
 2) **Copyright form (mandatory)**. Please download the PMLR copyright form,
@@ -94,30 +93,18 @@ submission ID on CMT), and submit it with the rest of the documents. It is
 sufficient for one author to sign the agreement on behalf of all authors.
 
 
-3) **Non-textual supplementary material (optional)**. The **ZIP file** may contain any
-**non-textual** supplementary material, such as code for the paper.
-
-
-* Your supplementary material file should be named **642-supp.zip** (with 642
-  replaced with your paper ID on CMT).
-* If you wish to include any **code/datasets** as part of the supplementary
-  material, you can: (i) include it in the ZIP file of your supplementary
-  material, and/or (ii) provide the public URL where the code can be found in
+3) **Code/Dasets (optional)**. To include **code/datasets** you can provide the public 
+  URL where the code can be found in
   the appropriate field of CMT submission form.  **If you promised to release
   code/datasets** (either in the original submission PDF or during the rebuttal),
   **the code/dataset must be released**. In this case, the AISTATS Chairs will
   check the availability of the code/dataset and, if it isn’t available by the
   camera-ready deadline, your submission may be excluded from the conference
   proceedings.
-* If you wish to include any **videos** as part of the supplementary material,
-  please do **not** include them in the ZIP file. Instead, simply provide the
+* If you wish to include any **videos**, provide the
   public URL where the video is available in the appropriate field of the CMT
   submission form. **NOTE**: This does not refer to the recorded presentation
   explaining your paper, which will be submitted/recorded separately, but to any other videos containing, e.g., experimental results.
-* Do **not** include any textual supplementary material in the ZIP file. It must be
-  included in the same PDF as the main paper.
-
-
 
 
 ## How to avoid the most common formatting violations
@@ -138,7 +125,7 @@ sufficient for one author to sign the agreement on behalf of all authors.
 ## Submission to CMT
 
 Camera-ready submissions must be submitted via CMT:
-<https://cmt3.research.microsoft.com/AISTATS2023>. If you are also a reviewer or
+<https://cmt3.research.microsoft.com/AISTATS2024>. If you are also a reviewer or
 Area Chair, make sure that your role is set to “Author”. To change your role to
 “Author,” click next to “Select Your Role” in the top right of the page.
 
@@ -147,8 +134,7 @@ submission" for each accepted paper. Use this link to submit camera-ready
 papers. The CMT form will ask you for the title, the abstract, the list of
 authors (only changes to the author order are allowed at this point, as per the
 submission agreement), and the following files (where 642 is to be replaced by
-your submission ID): **642.pdf**, **642-Permission.pdf**, 
-and **642-supp.zip (optional)**.
+your submission ID): **642.pdf** and **642-Permission.pdf**.
 
 Please ensure that the submitted **title and abstract match the ones in the
 camera-ready version**, and do not include any LaTeX commands or other
@@ -160,7 +146,7 @@ You will also be asked to provide **a submission code obtained by an automated
 style checker**. To obtain the code, please follow these steps: 
 
 1. Go to
-   <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2023/> 
+   <https://research.engineering.wustl.edu/machinelearning/pub/AISTATS2024/> 
 2. Provide the paper ID (from CMT), your name (just one author), your e-mail
    and the submission PDF file. If the paper passes the style checks, you will
 obtain a submission code. (Please ignore the warnings of the style checker.)
@@ -190,7 +176,7 @@ Instructions will be updated shortly.
 
 ## Instructions for Posters
 
-**deadline: March 14th, 2023 AoE** 
+**deadline: March 14th, 2024 AoE** 
 
 To see the full instructions, visit [the wiki](https://wiki.eventhosts.cc/en/reference/posteruploads).
 
@@ -221,7 +207,7 @@ If you don't see your paper listed on the page, try logging in using the
 
 ## Instructions for Recorded Presentations
 
-**deadline: March 14th, 2023 AoE** 
+**deadline: March 14th, 2024 AoE** 
 
 You will also pre-record a video presentation. 
 
