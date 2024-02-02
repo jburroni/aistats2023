@@ -12,15 +12,15 @@ hide: false
 Please take some time to read these instructions **in full**. For your camera-ready paper to be included in the proceedings, it is **essential** that you follow the instructions contained on this page.
 
 ## TL;DR
-* Camera-ready deadline is **Thursday, February 22rd,
+* Camera-ready deadline is **Thursday, February 22nd,
 2024, Anywhere on Earth**.
-* You have to use the **new Latex style fyle** available at: <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>
-* You have to **upload one PDF file with paper** (mandatory), **one PDF filled and signed copyright form** (mandatory), and one **url link to a GitHub repository with code/datasets** (optional).
+* You have to use the **new LaTeX style fyle** available at: <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>
+* You have to **upload one PDF file with the paper** (mandatory), **one PDF filled and signed copyright form** (mandatory), and **one URL link to a GitHub repository with code/datasets** (optional).
 
 ## Deadline
 
 
-The deadline for the camera-ready submission is **Thursday, February 22rd,
+The deadline for the camera-ready submission is **Thursday, February 22nd,
 2024, Anywhere on Earth**. This is a strict deadline; no extensions to the deadline will be granted in any cases. If you miss the deadline, your paper will not be included in the proceedings. We strongly recommend submitting your camera-ready version well in advance of this deadline.
 
 
@@ -67,9 +67,9 @@ instructions:
 6. Your paper must use **US letter** format (default in the style file). Do 
    **not** change this to A4 paper format.
 7. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
-8. Please use **ALL CAPS section headings**, as detailed in the latex templates.
+8. Please use **ALL CAPS section headings**, as detailed in the LaTeX templates.
 9. Citations **must** be in the **“(Author, Year)” format**, e.g., (Cheesman, 1985). To
-   achieve that, you may use the `natbib` latex package (or any other similar one
+   achieve that, you may use the `natbib` LaTeX package (or any other similar one
    that achieves the same purpose). Be sure that the sentence reads correctly
    if the citation is deleted; e.g., instead of “As described by (Cheesman,
    1985), we first frobulate the widgets,” write “As described by Cheesman
