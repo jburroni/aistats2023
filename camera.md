@@ -56,40 +56,38 @@ instructions:
 
 1. Please use the **UPDATED** LaTeX style file available at:
    <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
-2. Use the **NEW `sample_paper.tex`** file as the starting file for your submission,
-   as it contains some important changes.
-3. Camera-ready submissions are **limited to 9 pages**, excluding acknowledgements,
+2. Camera-ready submissions are **limited to 9 pages**, excluding acknowledgements,
    references, and (optionally) textual supplementary material. Please use the
    additional 9th page to address the reviewers’ and meta-reviewer’s feedback,
    which we request you to take into account.
-4. The main paper and the textual supplementary material ("Appendix"), if any,
+3. The main paper and the textual supplementary material ("Appendix"), if any,
    must now be submitted as a **single PDF** instead of two separate files.
-5. Do not change the style file, including spacing. If you have questions about
+4. Do not change the style file, including spacing. If you have questions about
    the style file or its usage, please contact the 
    [Publications Chair](aistats2024@gmail.com).
-6. Your paper must use **US letter** format (default in the style file). Do 
+5. Your paper must use **US letter** format (default in the style file). Do 
    **not** change this to A4 paper format.
-7. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
-8. Please use **ALL CAPS section headings**, as detailed in the LaTeX templates.
-9. Citations **must** be in the **“(Author, Year)” format**, e.g., (Cheesman, 1985). To
+6. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
+7. Please use **ALL CAPS section headings**, as detailed in the LaTeX templates.
+8. Citations **must** be in the **“(Author, Year)” format**, e.g., (Cheesman, 1985). To
    achieve that, you may use the `natbib` LaTeX package (or any other similar one
    that achieves the same purpose). Be sure that the sentence reads correctly
    if the citation is deleted; e.g., instead of “As described by (Cheesman,
    1985), we first frobulate the widgets,” write “As described by Cheesman
    (1985), we first frobulate the widgets.”
-10. The paper must be **de-anonymized**, i.e., the author names and institutions
+9. The paper must be **de-anonymized**, i.e., the author names and institutions
     should be visible. For that, please make sure to use
     `\usepackage[accepted]{aistats2024}` when loading the style file.
-11. The acknowledgements section should be titled "Acknowledgments".
+10. The acknowledgements section should be titled "Acknowledgments".
     Acknowledgements are optional, but if your paper contains this section, it
     must appear before the References.
-12. The reference section should be titled "References". The references listed
+11. The reference section should be titled "References". The references listed
     at the end of the paper can follow any style as long as it is used
     consistently.
-13. Please consider the following colorblind-friendly guidelines for
+12. Please consider the following colorblind-friendly guidelines for
     introducing color in your figures and plots:
     <https://usabilla.com/blog/how-to-design-for-color-blindness>.
-14. Further formatting instructions can be found in the `sample_paper.pdf` file
+13. Further formatting instructions can be found in the `sample_paper.pdf` file
     available at
     <http://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
 
